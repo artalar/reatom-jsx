@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^4.9.3",
-    "vite": "^4.0.4"
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
   },
   "dependencies": {
-    "@reatom/framework": "^3.4.8",
-    "@reatom/jsx": "^3.1.0"
+    "@reatom/framework": "^3.4.18",
+    "@reatom/jsx": "^3.2.0"
   }
 }
