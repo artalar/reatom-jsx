@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@reatom/framework": "^3.4.18",
-    "@reatom/jsx": "^3.2.0"
+    "@reatom/jsx": "^3.3.0"
   }
 }
